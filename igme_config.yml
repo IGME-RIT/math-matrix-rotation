@@ -9,6 +9,8 @@ language: C++
 tags:
   - Math
 extra_resources:
+  - title: The Wikipedia article on rotation matrices
+    link: https://en.wikipedia.org/wiki/Rotation_matrix
 connections:
   - series: Matrix Mathematics
     title: Matrices and Vectors
