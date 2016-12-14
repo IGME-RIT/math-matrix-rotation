@@ -18,6 +18,10 @@ where I<sub>3</sub> is the 3D identity matrix, \[__k__\]<sub>&times;</sub> is th
 
 To see that the two are equivalent, note that if ||__k__|| = 1, then \[__k__\]<sub>&times;</sub><sup>2</sup> = __k__&otimes;__k__ - I<sub>3</sub>
 
+## Postscript
+
+After viewing this tutorial I highly recommend you look at [euler-angles-tutorial](<https://github.com/IGME-RIT/euler-angles-tutorial>). Euler angles are a low-memory way to keep track of simple rotations. After viewing that tutorial, continue onward.
+
 # Setup
 
 You will need to have CMake installed on your computer, and properly added to your path. In order to setup, run the following in a shell, then open the project in your preferred editor. Windows setup has been configured for use with Visual Studio.
