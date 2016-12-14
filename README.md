@@ -16,7 +16,7 @@ R = cos(&theta;)I<sub>3</sub> + sin(&theta;)\[__k__\]<sub>&times;</sub> + (1-cos
 
 where I<sub>3</sub> is the 3D identity matrix, \[__k__\]<sub>&times;</sub> is the [skew-symmetric cross product matrix](<https://en.wikipedia.org/wiki/Cross_product#Conversion_to_matrix_multiplication>), and __k__&otimes;__k__ is the [outer product](<https://en.wikipedia.org/wiki/Outer_product>) of __k__ with itself.
 
-To see that the two are equivalent, note that if ||__k__|| = 1, then \[__k__\]<sub>&times;</sub><sup>2</sup> = __k__&otimes;__k__ + I<sub>3</sub>
+To see that the two are equivalent, note that if ||__k__|| = 1, then \[__k__\]<sub>&times;</sub><sup>2</sup> = __k__&otimes;__k__ - I<sub>3</sub>
 
 # Setup
 
